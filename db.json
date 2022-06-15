@@ -1,0 +1,22 @@
+{
+    "posts" : [
+        {"id" : 1,
+         "title" : "JavaScript Post",
+         "body" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+        },
+        {"id" : 2,
+         "title" : "JavaScript Post 2",
+         "body" : "НЕ ЛОРЕМ ИПСУМ ДОЛОР СИТ АМЕТ "
+        },
+        {"id" : 3,
+        "title" : "JavaScript Post 3",
+        "body" : "Я не знаю что писать "
+        }
+    ],
+    "about" : [
+        {
+            "id" : 1,
+            "title": "About Page"
+        }
+    ]
+}
